@@ -1,0 +1,130 @@
+html{
+height: 100%;
+}
+
+
+body{
+    background-image: url(img/backg4.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
+
+.container{
+    width: 1024px;
+    margin-left: auto ;
+    margin-right: auto;
+
+
+}
+
+header{
+    height: 130px;
+    /* background-color: red; */
+    text-align: center;
+}
+
+.logo{
+    height: 150px;
+    text-align: center;
+}
+
+nav{
+    /* height: 48px; */
+    background-color: rgba(233, 12, 12, 0.658);
+    margin-top: 27px;
+    border-radius: 18px;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+
+}
+nav a{
+    font-size: 17px;
+    text-decoration: none;
+    color: ivory;
+    padding-left: 25px;
+    padding-right: 25rpx;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.main {
+    height: 770px;
+    width: 1024px;
+    background-color: rgba(252, 0, 0, 0.247);
+    margin-right: 30px;
+    margin-top: 25px;
+    text-align: center;
+    border-radius: 20px;
+
+}
+
+h2{
+
+    padding-top: 40px;
+    padding-right: auto;
+    padding-left: auto;
+    text-align: center;
+    font-size: 40px;
+    color: rgb(255, 0, 0);
+}
+
+h3 {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+/* aside {
+    height: 300px;
+    width: 250px;
+    background-color: rgba(233, 12, 12, 0.658);
+    margin-left: 774px;
+    border-radius: 20px;
+    padding-top: 1px;
+} */
+
+aside a {
+    text-decoration: none;
+}
+
+footer{
+    height: 100px;
+    width: 1024px;
+    background-color: rgba(0, 0, 0, 0.747);
+    margin-top: 20px;
+    background-image: url(img/logo1.png);
+    background-position: center;
+    background-size: 205px;
+    text-align: center;
+}
+footer p {
+    padding-top: 20px;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+    font-family:'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    padding-left: 200px;
+    padding-right: 200px;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+
+.slide1{
+    height: 200px;
+    width: 200px;
+    padding: 20px;
+}
+
+.slide2{
+    height: 200px;
+    width: 200px;
+}
+
+.slide3{
+    height: 200px;
+    width: 200px;
+}
