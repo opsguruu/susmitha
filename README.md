@@ -13,3 +13,5 @@ well its:
 - ugly
 
 but hey, at least im not trying anymore :D
+
+check it out at <a href="https://siavashmehran.github.io/ExclusiveBarLinear/">GitHub STATIC PAGE</a>
